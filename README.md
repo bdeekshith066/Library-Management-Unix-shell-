@@ -42,4 +42,13 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+<br><br>
+
+Below are screenshots of three different pages from the project, showcasing its various features. Run the code to know more!
+
+<img src="https://github.com/bdeekshith066/Library-Management-Unix-shell-/assets/130782878/9c3832b7-f147-41ad-ad39-6fd460414e60" width="450"><br><br><br><br>
+<img src="https://github.com/bdeekshith066/Library-Management-Unix-shell-/assets/130782878/52d9afd4-c828-41d9-9d7a-9aad61489534" width="450"><br><br><br><br>
+<img src="https://github.com/bdeekshith066/Library-Management-Unix-shell-/assets/130782878/9965990c-7bd5-479f-b7e5-90b9ad294b8f" width="450">
+
+
 
